@@ -5,6 +5,8 @@ Laura's here! :cherry_blossom:
 
 🌱 I’m currently learning React and finishing the Javascript Algorithms and Data Structures Certification from freecodecamp.org (and enjoying it a lot so far!)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauselfe)](https://github.com/lauselfe/github-readme-stats)
+
 [![Laura's github stats](https://github-readme-stats.vercel.app/api?username=lauselfe)](https://github.com/lauselfe/github-readme-stats&count_private=true)
 
 <!--
