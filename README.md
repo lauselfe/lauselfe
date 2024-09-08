@@ -1,9 +1,7 @@
 ### Hi there 👋
 Laura's here! :cherry_blossom:
 
-- 💻 I'm a UI/UX Developer working at CYPE Software. 
-- 🧶I'm also a crocheter and a bit obsesed with yarn.
-- 🌱 Currently studying React.
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauselfe)](https://github.com/lauselfe/github-readme-stats)
